@@ -40,8 +40,12 @@ NSLOOKUP:
 GETMAC:
 <img width="970" height="200" alt="Screenshot 2026-05-26 073409" src="https://github.com/user-attachments/assets/414aa110-3ebc-4b55-9b8f-087521bb741c" />
 HOSTNAME:
+
 <img width="384" height="63" alt="Screenshot 2026-05-26 073419" src="https://github.com/user-attachments/assets/66d19e7c-9c84-448c-80be-c6cba1e41431" />
+
+
 NBTSTAT:
+
 <img width="1393" height="741" alt="Screenshot 2026-05-26 102959" src="https://github.com/user-attachments/assets/eea61483-0470-4396-ba74-14d168fffb7c" />
 ARP:
 <img width="1161" height="781" alt="Screenshot 2026-05-26 073442" src="https://github.com/user-attachments/assets/68a34ae5-01ec-4f6f-ae2d-86a0378431a5" />
